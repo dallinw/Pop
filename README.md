@@ -15,6 +15,7 @@ Any code outside of MainComponent.cpp and Main.cpp comes from Juce.
 Future possibilities for Pop include:
 <ul>
 <li>Fixing the ADSR envelope</li>
+<li>VST/AU versions for cross-platform use</li>
 <li>Adding a cutoff adjustment</li>
 <li>Adding reverb</li>
 <li>Adding square, sawtooth, and/or triangle waves</li>
