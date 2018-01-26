@@ -1,6 +1,6 @@
  Pop
  
- ![pop](https://raw.github.com/dallinw/Pop/master/pop.png)
+ ![pop](https://raw.github.com/dallinw/Pop/pop.png)
  
  Pop is a polyphonic, pentatonic synthesizer. It modulates four sine waves along a
  set of exponential functions to follow the notes of the pentatonic scale. Each of its
